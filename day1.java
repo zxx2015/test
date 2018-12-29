@@ -15,7 +15,7 @@ public class day1 {
             } else {
                 j = 0;
             }
-        }ggi
+        }
         if(j==needle.length()-1) {
             return i - needle.length() + 1;
         }
